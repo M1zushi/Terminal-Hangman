@@ -2,18 +2,10 @@
 ---
 
 <a href="https://img.shields.io/github/languages/top/M1zushi/Terminal-Hangman"><img alt="Python use" src="https://img.shields.io/github/languages/top/M1zushi/Terminal-Hangman"></a>
-<a href="https://img.shields.io/github/last-commit/M1zushi/Terminal-Hangman
-"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/M1zushi/Terminal-Hangman
-"></a>
-<a href="https://img.shields.io/pypi/pyversions/nltk
-"><img alt="NLTK Versions" src="https://img.shields.io/pypi/pyversions/nltk
-"></a>
-<a href="https://img.shields.io/readthedocs/nltk
-"><img alt="NLTK Versions" src="https://img.shields.io/readthedocs/nltk
-"></a>
-<a href="https://img.shields.io/github/checks-status/M1zushi/Terminal-Hangman/main
-"><img alt="NLTK Versions" src="https://img.shields.io/github/checks-status/M1zushi/Terminal-Hangman/main
-"></a>
+<a href="https://img.shields.io/github/last-commit/M1zushi/Terminal-Hangman"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/M1zushi/Terminal-Hangman"></a>
+<a href="https://img.shields.io/pypi/pyversions/nltk"><img alt="NLTK Versions" src="https://img.shields.io/pypi/pyversions/nltk"></a>
+<a href="https://img.shields.io/readthedocs/nltk"><img alt="NLTK Versions" src="https://img.shields.io/readthedocs/nltk"></a>
+<a href="https://img.shields.io/github/checks-status/M1zushi/Terminal-Hangman/main"><img alt="NLTK Versions" src="https://img.shields.io/github/checks-status/M1zushi/Terminal-Hangman/main"></a>
 
 
 
