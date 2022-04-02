@@ -22,7 +22,7 @@ A basic version of hangman that you can run on your terminal using, nothing spec
 
 ## Installation Requirements
 
-- Uses NLTK which only works with Python 3.7 or above. (Works for all of Windows, Mac, and UNIX. (<a href=" https://www.nltk.org/install.html">Official NLTK website</a>)
+- Uses NLTK which only works with Python 3.7 or above. (Works for all of Windows, Mac, and UNIX. (<a href="https://www.nltk.org/install.html">Official NLTK website</a>)
 - Respectively, Python 3.7 or above, ideally the latest. (<a href="https://www.python.org/downloads/">Official Python Download</a>)
 - Will also require NLTK data however the installation is part of the source code. 
 
